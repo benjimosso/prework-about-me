@@ -32,11 +32,19 @@ body {
     color: #ffffff;
 }
 
+
 .details {
     max-width: 38em;
     margin-left: auto;
     margin-right: auto;
     margin-top: 2em;
+}
+
+.details > button {
+  font-size:  x-large;
+  color: #111111;
+  background-color: whitesmoke;
+  padding: 20px 40px;
 }
 
 .details > p {
